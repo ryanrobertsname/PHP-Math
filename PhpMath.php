@@ -1,4 +1,4 @@
-<?php namespace Wells5609/PhpMath;
+<?php namespace Wells5609\PhpMath;
 /**
  * General mathematical methods.
  */
