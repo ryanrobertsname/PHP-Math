@@ -16,7 +16,7 @@
 		"ext-bcmath": "*"
 	},
 	"autoload": {
-		"files": ["functions.php"]
+		"files": ["PhpMath.php"]
 	},
 	"minimum-stability": "dev"
 }
