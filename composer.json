@@ -16,7 +16,7 @@
 		"ext-bcmath": "*"
 	},
 	"autoload": {
-		"files": ["PhpMath.php"]
+		"psr-4": {"Wells5609\\": "src/"}
 	},
 	"minimum-stability": "dev"
 }
